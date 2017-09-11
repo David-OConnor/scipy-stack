@@ -1,7 +1,7 @@
 SciPy Stack download helper
 ===========================
 
-This package simply requires the packages that are part of the scipy stack, defined
+This package simply has the packages that are part of the scipy stack as dependencies, defined
 here: https://www.scipy.org/stackspec.html
 
 This package is unofficial and contains no code. running 'pip install scipy-stack' will

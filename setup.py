@@ -8,7 +8,15 @@ setup(
     version="0.0.1",
     packages=find_packages(),
 
-    install_requires=[],
+    install_requires=[
+        'numpy>=1.13.1',
+        'scipy>=0.19.1',
+        'matplotlib>=2.0.2',
+        'jupyter>=1.0.0',
+        'pandas>=0.20.3',
+        'sympy>=1.1.1',
+        'nose>=1.3.7',
+    ],
 
     author="",
     author_email="",
