@@ -7,6 +7,6 @@ scipy-stack' to install all official scipy-stack packages, if your system is abl
 this will install the non-MKL version of numpy. 
 
 Windows users may have trouble installing
-SciPy using this package due to the absense of an official wheel; the rest of the stack should
+SciPy using this package due to the absence of an official wheel; the rest of the stack should
 install correctly. Workaround: Download and install Numpy+MKL and SciPy wheels (The former is a prereq
-for the latter.) from Chris Gohlke's site: http://www.lfd.uci.edu/~gohlke/pythonlibs/, then install scipy-stack.
+for the latter) from Chris Gohlke's site: http://www.lfd.uci.edu/~gohlke/pythonlibs/, then install scipy-stack.
