@@ -21,9 +21,9 @@ setup(
 
     author="David O'Connor",
     author_email="david.alan.oconnor@gmail.com",
-    url='',
+    url='https://github.com/David-OConnor/scipy-stack',
     description="Helper to install the SciPy stack",
     long_description=readme,
-    license="Apache 2.0",
+    license="",
     keywords="scipy-stack, scipy, numpy, pandas, jupyter",
 )
