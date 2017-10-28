@@ -6,12 +6,12 @@ with open('README.rst') as f:
 
 setup(
     name="scipy-stack",
-    version="0.0.4",
+    version="0.0.6",
     packages=find_packages(),
 
     install_requires=[
-        'numpy>=1.13.1',
-        'scipy>=0.19.1',
+        'numpy>=1.13.3',
+        'scipy>=1.0.0',
         'matplotlib>=2.0.2',
         'jupyter>=1.0.0',
         'pandas>=0.20.3',
